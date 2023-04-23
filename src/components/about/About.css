@@ -1,0 +1,133 @@
+.App-header{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #f8f8f8;
+}
+.sign{
+    border-style: hidden;
+    position: absolute;
+    width: 91px;
+    height: 34px;
+    left: 1200px;
+    top:30px;
+    color:white ;
+    background: #E60000;
+    border-radius: 10px
+}
+.sign:hover{
+    background-color:white ;
+    color: black;
+}
+.img{
+
+    position: absolute;
+    right:1300px;
+    top: 28px;
+    bottom: 8.33%;
+
+}
+
+.logo{
+
+    position: absolute;
+    width: 140px;
+    height: 90px;
+    left: 50px;
+    top: 1488px;
+
+}
+.logo:hover{
+    background-color: black;
+}
+
+.parag3{
+    position: absolute;
+    width: 600px;
+    height: 24px;
+    left: 350px;
+    top: 1509px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+.parag3:hover{
+    color: #E60000;
+}
+.circle3{
+    width: 180px;
+    height: 180px;
+    border-radius: 200%;
+    color: white;
+    background-color: #770606; /* Set the background color to red */
+    left: 950px;
+    top: 114px;
+    position: absolute;
+
+}
+.circle3:hover{
+    background-color: red;
+}
+.get-started1 {
+    display: flex;
+    font-size: 30px; /* Sets the font size to 24 pixels */
+    font-weight: bold; /* Makes the font bold */
+    color: white; /* Sets the font color to dark gray */
+    margin-top: 40px; /* Adds a 20-pixel margin at the top */
+    text-align: center; /* Centers the text horizontally */
+    justify-content: center;
+    align-items: center;
+
+}
+.get-started1:hover{
+    color: black;
+}
+
+.about{
+
+    position: absolute;
+    width: 490px;
+    height: 65px;
+    left:250px;
+    top: 140px;
+
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 48px;
+
+    color: #000000;
+
+}
+.img5{
+    position: absolute;
+    width: 850px;
+    height: 400px;
+    top: 320px;
+left:250px;
+}
+.parag5{
+    position: absolute;
+    width: 698px;
+    height: 300px;
+    left: 300px;
+    top: 750px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 24px;
+
+    color: #000000;
+}
+

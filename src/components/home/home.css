@@ -1,0 +1,245 @@
+
+.sign{
+    border-style: hidden;
+    position: absolute;
+    width: 91px;
+    height: 34px;
+    left: 1200px;
+    top:30px;
+    color:white ;
+    background: #E60000;
+    border-radius: 10px
+}
+.sign:hover{
+    background-color:white ;
+    color: black;
+}
+.img{
+
+    position: absolute;
+    right:1300px;
+    top: 28px;
+    bottom: 8.33%;
+
+}
+.text{
+
+    position: absolute;
+    width: 600px;
+    height: 235px;
+    left: 80px;
+    top: 480px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 48px;
+
+    color: #000000;
+
+}
+.start{
+    color:rgba(202, 30, 30, 1);
+    padding: 7px;
+}
+.start:hover{
+    color: darkgray;
+}
+
+.bus{
+
+    position: absolute;
+    width: 775px;
+    height: 400px;
+    left: 350px;
+    top: 40px;
+
+}
+
+.parag{
+
+    position: absolute;
+    width: 600px;
+    height: 120px;
+    left: 350px;
+    top: 690px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 30px;
+
+}
+
+.btn1{
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: transparent;
+    background-color: darkgray;
+    left: 100px;
+    position: absolute;
+    top: 870px;
+}
+.btn1:hover{
+    background-color: rgba(202, 30, 30, 1);
+    color: white;
+}
+
+.btn2{
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: transparent;
+    background-color: darkgray;
+    left: 550px;
+    position: absolute;
+    top: 870px;
+}
+.btn2:hover{
+    background-color: rgba(202, 30, 30, 1);
+    color: white;
+}
+
+.btn3{
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: transparent;
+    background-color: darkgray;
+    left: 1050px;
+    position: absolute;
+    top: 870px;
+}
+.btn3:hover{
+    background-color: rgba(202, 30, 30, 1);
+    color: white;
+}
+.parag1{
+    position: absolute;
+    width: 593px;
+    height: 201px;
+    left: 100px;
+    top: 960px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+
+    color: #000000;
+
+}
+
+.parag2{
+    position: absolute;
+    width: 580px;
+    height: 100px;
+    left: 350px;
+    top: 1155px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+
+.btn4{
+    width: 330px;
+    height: 50px;
+    border-radius: 10px;
+    border-color: transparent;
+    background-color: darkgray;
+    left: 550px;
+    position: absolute;
+    top: 1325px;
+    font-size: 25px;
+}
+.btn4:hover{
+    background-color: rgba(202, 30, 30, 1);
+    color: white;
+}
+.btn5{
+    position: absolute;
+    width: 1462px;
+    height: 138px;
+    top: 1452px;
+    background: #D9D9D9;
+}
+.btn5:hover{
+    background-color: darkgray;
+}
+
+.logo{
+
+    position: absolute;
+    width: 140px;
+    height: 90px;
+    left: 50px;
+    top: 1488px;
+
+}
+.logo:hover{
+    background-color: black;
+}
+
+.parag3{
+    position: absolute;
+    width: 600px;
+    height: 24px;
+    left: 350px;
+    top: 1509px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+.parag3:hover{
+    color: #E60000;
+}
+.circle2{
+    width: 220px;
+    height: 220px;
+    border-radius: 200%;
+    color: white;
+    background-color: #770606; /* Set the background color to red */
+    left: 850px;
+    top: 450px;
+    position: absolute;
+
+}
+.circle2:hover{
+    background-color: red;
+}
+.get-started {
+    display: flex;
+    font-size: 33px; /* Sets the font size to 24 pixels */
+    font-weight: bold; /* Makes the font bold */
+    color: white; /* Sets the font color to dark gray */
+    margin-top: 50px; /* Adds a 20-pixel margin at the top */
+    text-align: center; /* Centers the text horizontally */
+    justify-content: center;
+    align-items: center;
+
+}
+.get-started:hover{
+    color: black;
+}
